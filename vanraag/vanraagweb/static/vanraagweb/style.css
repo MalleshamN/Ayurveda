@@ -1,3 +1,28 @@
 img.card-img.rounded-0.img-fluid {
     height: 200px !important;
 }
+
+.card-img-top {
+    height: 350px !important;
+}
+
+ul#collapseThree {
+    padding-left: 10%;
+}
+
+ul#collapseOne {
+    padding-left: 10%;
+}
+
+ul#collapseTwo {
+    padding-left: 10%;
+}
+
+ul#collapseFour {
+    padding-left: 10%;
+}
+
+.text-decoration-none:hover{
+    color: #47a75f !important;
+    text-decoration: underline;
+}
